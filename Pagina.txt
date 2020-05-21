@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Mi pagina web</title>
+</head>
+<body bgcolor="#5BBCB2">
+<marquee><font color="#FFFFFF"><h1>PAISAJES</h1></font></marquee>
+<center><img src="../Downloads/imagenes/canon-rebel-t4i-780103_1280.jpg" width="580" height="300" alt=""/></center>
+<center><font color="#0329B9"><p>Los paisajes son lugares asombrosos y mágicos que resaltan la belleza de los colores en una foto o pintura, son la expresion mas hermosa del mundo por mostrarnos la naturaleza en su mejor vista o algunos edificios o monumentos con historia que hacen que una mejor vista de las ciudades.</p>
+	<p>Las personas que se dedican a retratar estos espacios hacen un arte ya sea dandoles un mejor enfoque o mostrandolo con sus acuarelas y plasmandolo en un bastidor.</p>
+	<p>En esta pagina mostraremos algunos de los paisajes mas hermosos del mundo, para os que no tenemos las posibilidades de conocer mas alla de nuestra ciudad.</p></font>
+	<font color="#AE5BED"><h1>¡CONOZCAMOS UN POCO MAS DE NUESTRO MUNDO!</h1></font>
+	</center>
+	<center>
+	<table width="00" border="2">
+  <tbody>
+    <tr bgcolor="#FFFFFF">
+      <th scope="col"><font color="#3FAAD7"><marquee>&nbsp;Nombre del paisaje</marquee></font> </th>
+      <th scope="col"><font color="#3FAAD7"><marquee>&nbsp;Imagen del paisaje</marquee></font> </th>
+		 <th scope="col"><font color="#3FAAD7"><marquee>&nbsp;Descripcion del paisaje</marquee></font> </th>
+    </tr>
+    <tr bgcolor="#A6A6A6">
+      <th scope="row" >1.-ZHANGJIAJIE &nbsp;</th>
+      <td><center><img src="../Downloads/imagenes/maxresdefault.jpg" width="380" height="180" alt=""/></center></td>
+	    <td>&nbsp;Perteneciente al primer Parque Nacional Forestal declarado en China, en 1992 entró a formar parte del Patrimonio Natural Mundial. Sus célebres montañas que presentan diversas formas son consideradas las más insólitas del mundo ocultando sus prominentes cimas entre las nubes.</td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <th scope="row">&nbsp;2.-GLACIAL PERITO MORENO</th>
+      <td><img src="../Downloads/imagenes/Perito-Moreno-Glacier-Wallpaper.png" width="380" height="180" alt=""/></td>
+	 <td>&nbsp;Es uno de los paisajes más impresionantes del planeta, se trata de una gruesa masa de hielo ubicada en el departamento Lago Argentino de la provincia de Santa Cruz, en el sudoeste de la Argentina, en la región de la Patagonia, con un frente de 5 km de longitud aflorando sobre el agua con una altura de unos 60 m.
+El derrumbe de trozos del glacial es todo un espectáculo visual fácilmente apreciable por los turistas.</td>
+    </tr>
+    <tr bgcolor="#A6A6A6">
+      <th scope="row">&nbsp;3.-SALTO DEL ÁNGEL</th>
+      <td><img src="../Downloads/imagenes/salto-del-angel.jpg" width="380" height="180" alt=""/></td>
+	<td>&nbsp;Se localiza en el Parque Nacional Canaima en el estado de Bolívar (Venezuela). Declarado Patrimonio de la Humanidad por la Unesco en 1994, es el salto de agua más alto del mundo con una altura de 979 metros. La vegetación y fauna del parque son de las más antiguas del mundo, y los yacimientos minerales incluyen minas de oro y diamantes. El Salto del Ángel inspiró a Disney Pixar para recrear la selva de la película «Up», así como a James Cameron para recrear los paisajes de Pandora en «Avatar».</td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <th scope="row">&nbsp;4.-HIELO TURQUESA LAGO BAIKAL</th>
+      <td><img src="../Downloads/imagenes/OIPPLWR5YV3.jpg" width="380" height="180" alt=""/></td>
+		<td>&nbsp;Situado en Siberia, su nombre significa en tártaro «Lago Rico» también se le conoce como «El Ojo Azul de Siberia» o «La Perla de Asia», es una increíble maravilla. Además no es solo uno de los lagos más trasparentes del planeta sino también el lago de agua dulce más antiguo y profundo del mundo con 1.680 metros de profundidad, contiene el 20% de toda el agua dulce de la tierra.</td>
+    </tr>
+    <tr bgcolor="#A6A6A6">
+      <th scope="row">&nbsp;5.-LAGO MORAINE</th>
+      <td><img src="../Downloads/imagenes/OIPOZKARRQB.jpg" width="380" height="180" alt=""/></td>
+	 <td>&nbsp;Se encuentra en el «Valle de los 10 Picos» en el parque Nacional de Banff en Alberta (Canadá), tiene una superficie de medio kilómetro cuadrado y se alimenta del deshielo de un glacial cercano, su característico color azul proviene de la refracción de la luz a causa del polvo de roca que procede de las montañas.</td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <th scope="row">&nbsp;6.-EL GRAN CAÑÓN DEL COLORADO</th>
+      <td><img src="../Downloads/imagenes/El-Gran-Cañon-compressor.jpg" width="380" height="180" alt=""/></td>
+	<td>&nbsp;Escarpada garganta excavada por el río Colorado se encuentra en el Parque Nacional del Gran Cañón en el norte de Arizona (EEUU). Desde la reserva Hualapai, es posible caminar desde el Skywalk, una pasarela con el suelo de cristal suspendida sobre el vacío a 1.200 metros de altitud sobre el fondo del cañón.</td>
+    </tr>
+    <tr bgcolor="#A6A6A6">
+      <th scope="row">&nbsp;7.-AOGASHIMA</th>
+      <td><img src="../Downloads/imagenes/Aogashima.jpg" width="380" height="180'" alt=""/></td>
+	 <td>&nbsp;Aogashima (青ヶ島村) se encuentra ubicada en la subprefectura de Hachijō, Tokio, Japón. Tiene un área de 5,98 km² y una población de 198 habitantes, siendo la municipalidad menos poblada del país. Recuerda mucho a la isla de «El Mundo Perdido», es una fortaleza inexpugnable en mitad del mar, no tiene puertos naturales ni playas sólo altos acantilados y fuertes corrientes en el que solo se puede acceder en barco o en helicóptero. Un lugar aislado, recóndito, paradisíaco que sorprende sólo a la vista. ¡Un paisaje verdaderamente impresionante!</td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <th scope="row">&nbsp;8.-CATARATAS DE IGUAZÚ</th>
+      <td><img src="../Downloads/imagenes/cataratas-iguazu-panoramica.jpg" width="380" height="180" alt=""/></td>
+	<td>&nbsp;Elegidas como una de las «Siete Maravillas Naturales del Mundo», se encuentran situadas entre la provincia argentina de Misiones y el estado brasileño de Paraná dentro del Parque Natural de Iguazú. Está formada por 275 saltos, su mayor salto es de 80 metros y se encuentra en «La Garganta del Diablo», se puede disfrutar de él a tan solo 50 metros desde unas pasarelas que parten desde Puerto Canoas, este salto se sitúa en la frontera de ambos países. También se pueden realizar paseos en lancha bajo los saltos además de hacer senderismo.</td>
+    </tr>
+    <tr bgcolor="#A6A6A6">
+      <th scope="row">&nbsp;9.-MAR DE CORAL DE AUSTRALIA</th>
+      <td><img src="../Downloads/imagenes/gran-berrera-de-coral-2.jpg" width="380" height="180" alt=""/></td>
+	<td>&nbsp;Declarada Patrimonio de la Humanidad por la Unesco en 1981, se encuentra en el oeste del Océano Pacífico frente a las costas de Australia. Toma su nombre de su Gran Barrera de Coral, el mayor arrecife coralino del mundo, se extiende sobre unos 2600 kilómetros de longitud, y se puede ver desde el espacio. Debido a sus aguas templadas, su alta diversidad biológica y su fácil accesibilidad es el principal destino turístico para los aficionados al submarinismo.</td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <th scope="row">&nbsp;10.-OLAS DEL DESIERTO</th>
+      <td><img src="../Downloads/imagenes/OIPHDAYNA9R.jpg" width="380" height="180" alt=""/></td>
+	<td>&nbsp;Es una formación arenisca considerada uno de los paisajes más impresionantes del planeta. Se encuentra situada en una reserva protegida Paria Canyon-Vermilion Cliffs Wilderness al norte del estado de Arizona, en Estados Unidos. Para llegar a la increíble formación de la Ola de Arizona hay que realizar una excursión de casi 5 kilómetros a través de paisajes escarpados, y caminos que ascienden por calzadas de hasta 107 metros de altura, pero la recompensa merece la pena.</td>
+    </tr>
+  </tbody>
+</table>
+		</center>
+	<center>
+		<font color="#3938B8">
+<h2>"La mitad  de la belleza depende del paisaje 
+...la otra mitad, de la persona que lo mira"</h2>
+			</font>
+		</center>	
+</body>
+</html>
